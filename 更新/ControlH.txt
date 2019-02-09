@@ -1,0 +1,11 @@
+\n
+00  [0-7] 
+
+    IL_2851:  ldstr      bytearray (43 00 F4 00 74 00 65 00 20 00 64 00 27 00 69 00 76 00 6F 00 69 00 72 00 65 00 ) 科特迪瓦
+
+人类发展指数
+89 in 85
+
+Patch04 分号
+
+"At the 5:00 PM the MFA's press-center held a GKChP members' press conference. One of GKChP organizers prime-minister V. S. Pavlov, who had an alcohol poisoning yesterday, had missed it. GKChP members were noticeably nervous; the whole world saw the pictur","At the 5:00 PM the MFA's press-center held a GKChP members' press conference. One of GKChP organizers prime-minister V. S. Pavlov, who had an alcohol poisoning yesterday, had missed it. GKChP members were noticeably nervous; the whole world saw the pictures of G. Yanaev's shivering hands. 24-old journalist Tatiana Malkina openly called these events a \coup\"" and asked a question: \""Can you please say: do you understand that tonight you made a coup\? And which comparison do you think is right - with 1917 or 1964\?\""""",下午5点，联邦外交部的新闻中心举行了国家紧急状态委员会成员的新闻发布会。 国家紧急状态委员会组织者之一，昨天酒精中毒的总理瓦·帕夫洛夫未能出席。 国家紧急状态委员会成员明显都很紧张；全世界都看到了根·亚纳耶夫双手颤抖的照片。 24岁的记者塔蒂亚娜·马尔基娜公开称这些事件为“政变”，质问：“您能否讲讲，您是否清楚今晚发动的是场政变？与1917年或1964年比起来，您认为哪种情况是正确的？”
